@@ -1,0 +1,52 @@
+HashChangeEvent {isTrusted: true, oldURL: "http://127.0.0.1:8080/hash.html#/b", newURL: "http://127.0.0.1:8080/hash.html#/a", type: "hashchange", target: Window, …}
+bubbles
+:
+false
+cancelBubble
+:
+false
+cancelable
+:
+false
+composed
+:
+false
+currentTarget
+:
+Window {postMessage: ƒ, blur: ƒ, focus: ƒ, close: ƒ, frames: Window, …}
+defaultPrevented
+:
+false
+eventPhase
+:
+2
+isTrusted
+:
+true
+newURL
+:
+"http://127.0.0.1:8080/hash.html#/a"
+oldURL
+:
+"http://127.0.0.1:8080/hash.html#/b"
+path
+:
+[Window]
+returnValue
+:
+true
+srcElement
+:
+Window {postMessage: ƒ, blur: ƒ, focus: ƒ, close: ƒ, frames: Window, …}
+target
+:
+Window {postMessage: ƒ, blur: ƒ, focus: ƒ, close: ƒ, frames: Window, …}
+timeStamp
+:
+4477.399999999761
+type
+:
+"hashchange"
+__proto__
+:
+HashChangeEvent
